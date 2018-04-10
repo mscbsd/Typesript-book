@@ -1,0 +1,40 @@
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Control = (function () {
+    function Control() {
+    }
+    return Control;
+}());
+var Button = (function (_super) {
+    __extends(Button, _super);
+    function Button() {
+        _super.apply(this, arguments);
+    }
+    Button.prototype.select = function () { };
+    return Button;
+}(Control));
+var TextBox = (function (_super) {
+    __extends(TextBox, _super);
+    function TextBox() {
+        _super.apply(this, arguments);
+    }
+    TextBox.prototype.select = function () { };
+    return TextBox;
+}(Control));
+var Image = (function (_super) {
+    __extends(Image, _super);
+    function Image() {
+        _super.apply(this, arguments);
+    }
+    return Image;
+}(Control));
+var Location = (function () {
+    function Location() {
+    }
+    Location.prototype.select = function () { };
+    return Location;
+}());
+//# sourceMappingURL=interface-extends-classes.js.map

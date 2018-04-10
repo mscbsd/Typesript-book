@@ -1,0 +1,1 @@
+//# sourceMappingURL=interface-type-function.js.map

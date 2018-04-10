@@ -1,0 +1,1 @@
+export default "alguma coisa para exportar";

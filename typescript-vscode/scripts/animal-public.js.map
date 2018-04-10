@@ -1,0 +1,1 @@
+{"version":3,"file":"animal-public.js","sourceRoot":"","sources":["../animal-public.ts"],"names":[],"mappings":"AAAA;IAEI,gBAAmB,OAAe;QAAI,IAAI,CAAC,IAAI,GAAG,OAAO,CAAC;IAAC,CAAC;IACrD,qBAAI,GAAX,UAAY,gBAAwB;QAChC,OAAO,CAAC,GAAG,CAAI,IAAI,CAAC,IAAI,eAAU,gBAAgB,OAAI,CAAC,CAAC;IAC5D,CAAC;IACL,aAAC;AAAD,CAAC,AAND,IAMC"}

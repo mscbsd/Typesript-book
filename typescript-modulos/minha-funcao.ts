@@ -1,0 +1,1 @@
+export default function minhaFuncao() { return "alguma coisa"; }
